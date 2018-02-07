@@ -1,7 +1,4 @@
-#include <iostream>
-#include <cstdio>
-#include <cstdlib>
-#include <ctime>
+#include <bits/stdc++.h>
 #include <windows.h>
 #include <conio.h>
 #define N 28
